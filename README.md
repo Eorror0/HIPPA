@@ -1,8 +1,7 @@
 # HIPPA-DGCN：Survival Analysis on Whole Slide Images via Hyper-Image Patches and Position-Aware Dense Graph Convolutional Networks
 This repository contains the PyTorch implementation of the method proposed in the paper "HIPPA-DGCN：Survival Analysis on Whole Slide Images via Hyper-Image Patches and Position-Aware Dense Graph Convolutional Networks".
 
-# Code Availability
-the code will be released soon
+
 
 # Datasets Used
 To evaluate the model's robustness and generalization, we utilize seven diverse datasets from TCGA and CPTAC, covering multiple cancer types and preparation methods:
